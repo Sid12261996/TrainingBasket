@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="APIforHouseHoldRapItUP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;mongodb://sid:rapitup1@ds213688.mlab.com:13688/rapitup&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">mongodb://sid:rapitup1@ds213688.mlab.com:13688/rapitup</Value>
+    </Setting>
+    <Setting Name="dBname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">rapitup</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
